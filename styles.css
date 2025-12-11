@@ -1,17 +1,17 @@
 .container {
-    background-color: #c0392b;
-    color: #ffffff;
-    font-size: 20px;
+    background-color: pink;
+    color: rgb(140, 63, 63);
+    font-size: 25px;
     text-align: center;
     font-weight: 700;
     padding: 1.5rem;
+    margin: 2rem auto;
     border-radius: 8px;
     max-width: 720px;
-    margin: 2rem auto;
 }
 
 .container a {
-    color: #fff;
+    color: rgb(131, 73, 155);
     text-decoration: none;
     display: inline-block;
     margin: 0.5rem 0;

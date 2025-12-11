@@ -1,0 +1,22 @@
+.container {
+    background-color: #c0392b;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    font-weight: 700;
+    padding: 1.5rem;
+    border-radius: 8px;
+    max-width: 720px;
+    margin: 2rem auto;
+}
+
+.container a {
+    color: #fff;
+    text-decoration: none;
+    display: inline-block;
+    margin: 0.5rem 0;
+}
+
+.container a:hover {
+    text-decoration: underline;
+}

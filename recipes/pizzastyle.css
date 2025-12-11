@@ -1,0 +1,17 @@
+.container {
+    background-color:#FFF4E3;
+    color:rgb(21, 21, 21);
+    font-size: 25px;
+    text-align: center;
+    font-weight: 550;
+    padding: 1.5rem;
+    font-family: "Segoe UI", sans-serif;
+}
+.container2 {
+    background-color:#f4e285;
+    font-size:22px;
+    font-weight:550;
+    font-family: "Segoe UI", sans-serif;
+    padding:1.5rem;
+    
+}
